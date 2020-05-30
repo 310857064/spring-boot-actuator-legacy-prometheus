@@ -1,0 +1,9 @@
+server:
+  port: 8041
+
+#boot 1.5.4
+endpoints:
+  metrics:
+    sensitive: false
+  prometheus:
+    sensitive: false
